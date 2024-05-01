@@ -6,7 +6,7 @@ Accelerating LBM by using openmp parallel.
 
 - flow field developments with time
 
-  <img alt="Re1000_animate" src="lid_driven_cavity/Re1000_animate.gif" />
+  <img alt="Re1000_animate" src="lid_driven_cavity/Re1000_animate.mp4" />
 
 - streamline at steady state
 
