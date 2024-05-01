@@ -2,7 +2,7 @@
 
 Accelerating LBM by using openmp parallel.
 
-## lid driven cavity (Re = 1000.0)
+## lid driven cavity
 
 - flow field developments with time
 
