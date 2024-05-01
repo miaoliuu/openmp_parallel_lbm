@@ -8,13 +8,13 @@ Accelerating LBM by using openmp parallel.
 
   <img alt="Re1000_animate" src="lid_driven_cavity/Re1000_animate.gif" />
 
-- streamline at steady state
-
-  <img alt="Re1000_strf" src="lid_driven_cavity/Re1000_strf.png" />
-
 - velocity vector at steady state
 
   <img alt="Re1000_velocity" src="lid_driven_cavity/Re1000_velocity.png" />
+
+- streamline at steady state
+
+  <img alt="Re1000_strf" src="lid_driven_cavity/Re1000_strf.png" />
 
 - relative error during calculation
 
